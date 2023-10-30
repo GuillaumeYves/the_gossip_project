@@ -14,4 +14,4 @@ Et Les commentaires avec le même fonctionnement cité ci-dessus.
 
 Pour le moment la majorité des buttons renvoient vers la home page afin d'éviter les errors.
 
-Il y a une page secrète comme demandée dans l'exo du jour uniquement accessible via "http://localhost:3000/welcome/_votre_prénom_
+Il y a une page secrète comme demandée dans l'exo du jour uniquement accessible via "http://localhost:3000/welcome/"votre_prénom"
